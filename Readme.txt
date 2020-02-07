@@ -3,7 +3,7 @@ Report Card Generator
 NOTE-
 1)Input file names should not change and their location inside 'java-report-card-generator' folder as currently they are.
 2)To run the project on commandline-
-	-Go inside 'Kaushal_RCG' using 'cd' command.
+	-Go inside 'java-report-card-generator' using 'cd' command.
 	-Run following command : javac reportcard/ReportCard.java
 	-Run following command : java reportcard.ReportCard.
 	-The required '.txt' file will be generated at the same location.
